@@ -1,0 +1,355 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Selenium\\KT4\\PageObjectModelTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7552D9-7647-4273-91DE-0C19D7895FED}|PageObjectModelTest\\PageObjectModelTest.csproj|c:\\users\\argument\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\selenium\\kt4\\pageobjectmodeltest\\pageobjectmodeltest\\ui\\pages\\productpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7552D9-7647-4273-91DE-0C19D7895FED}|PageObjectModelTest\\PageObjectModelTest.csproj|solutionrelative:pageobjectmodeltest\\ui\\pages\\productpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7552D9-7647-4273-91DE-0C19D7895FED}|PageObjectModelTest\\PageObjectModelTest.csproj|c:\\users\\argument\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\selenium\\kt4\\pageobjectmodeltest\\pageobjectmodeltest\\ui\\pages\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7552D9-7647-4273-91DE-0C19D7895FED}|PageObjectModelTest\\PageObjectModelTest.csproj|solutionrelative:pageobjectmodeltest\\ui\\pages\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7552D9-7647-4273-91DE-0C19D7895FED}|PageObjectModelTest\\PageObjectModelTest.csproj|c:\\users\\argument\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\selenium\\kt4\\pageobjectmodeltest\\pageobjectmodeltest\\ui\\pages\\cartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7552D9-7647-4273-91DE-0C19D7895FED}|PageObjectModelTest\\PageObjectModelTest.csproj|solutionrelative:pageobjectmodeltest\\ui\\pages\\cartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7552D9-7647-4273-91DE-0C19D7895FED}|PageObjectModelTest\\PageObjectModelTest.csproj|c:\\users\\argument\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\selenium\\kt4\\pageobjectmodeltest\\pageobjectmodeltest\\ui\\models\\signupmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7552D9-7647-4273-91DE-0C19D7895FED}|PageObjectModelTest\\PageObjectModelTest.csproj|solutionrelative:pageobjectmodeltest\\ui\\models\\signupmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7552D9-7647-4273-91DE-0C19D7895FED}|PageObjectModelTest\\PageObjectModelTest.csproj|c:\\users\\argument\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\selenium\\kt4\\pageobjectmodeltest\\pageobjectmodeltest\\ui\\models\\ordermodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7552D9-7647-4273-91DE-0C19D7895FED}|PageObjectModelTest\\PageObjectModelTest.csproj|solutionrelative:pageobjectmodeltest\\ui\\models\\ordermodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7552D9-7647-4273-91DE-0C19D7895FED}|PageObjectModelTest\\PageObjectModelTest.csproj|c:\\users\\argument\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\selenium\\kt4\\pageobjectmodeltest\\pageobjectmodeltest\\ui\\models\\loginmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7552D9-7647-4273-91DE-0C19D7895FED}|PageObjectModelTest\\PageObjectModelTest.csproj|solutionrelative:pageobjectmodeltest\\ui\\models\\loginmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7552D9-7647-4273-91DE-0C19D7895FED}|PageObjectModelTest\\PageObjectModelTest.csproj|c:\\users\\argument\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\selenium\\kt4\\pageobjectmodeltest\\pageobjectmodeltest\\tests\\signuptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7552D9-7647-4273-91DE-0C19D7895FED}|PageObjectModelTest\\PageObjectModelTest.csproj|solutionrelative:pageobjectmodeltest\\tests\\signuptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7552D9-7647-4273-91DE-0C19D7895FED}|PageObjectModelTest\\PageObjectModelTest.csproj|c:\\users\\argument\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\selenium\\kt4\\pageobjectmodeltest\\pageobjectmodeltest\\tests\\purchasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7552D9-7647-4273-91DE-0C19D7895FED}|PageObjectModelTest\\PageObjectModelTest.csproj|solutionrelative:pageobjectmodeltest\\tests\\purchasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7552D9-7647-4273-91DE-0C19D7895FED}|PageObjectModelTest\\PageObjectModelTest.csproj|c:\\users\\argument\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\selenium\\kt4\\pageobjectmodeltest\\pageobjectmodeltest\\tests\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7552D9-7647-4273-91DE-0C19D7895FED}|PageObjectModelTest\\PageObjectModelTest.csproj|solutionrelative:pageobjectmodeltest\\tests\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7552D9-7647-4273-91DE-0C19D7895FED}|PageObjectModelTest\\PageObjectModelTest.csproj|c:\\users\\argument\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\selenium\\kt4\\pageobjectmodeltest\\pageobjectmodeltest\\tests\\addtocarttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7552D9-7647-4273-91DE-0C19D7895FED}|PageObjectModelTest\\PageObjectModelTest.csproj|solutionrelative:pageobjectmodeltest\\tests\\addtocarttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7552D9-7647-4273-91DE-0C19D7895FED}|PageObjectModelTest\\PageObjectModelTest.csproj|c:\\users\\argument\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\selenium\\kt4\\pageobjectmodeltest\\pageobjectmodeltest\\locators\\signupmodallocators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7552D9-7647-4273-91DE-0C19D7895FED}|PageObjectModelTest\\PageObjectModelTest.csproj|solutionrelative:pageobjectmodeltest\\locators\\signupmodallocators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7552D9-7647-4273-91DE-0C19D7895FED}|PageObjectModelTest\\PageObjectModelTest.csproj|c:\\users\\argument\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\selenium\\kt4\\pageobjectmodeltest\\pageobjectmodeltest\\locators\\productlocators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7552D9-7647-4273-91DE-0C19D7895FED}|PageObjectModelTest\\PageObjectModelTest.csproj|solutionrelative:pageobjectmodeltest\\locators\\productlocators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7552D9-7647-4273-91DE-0C19D7895FED}|PageObjectModelTest\\PageObjectModelTest.csproj|c:\\users\\argument\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\selenium\\kt4\\pageobjectmodeltest\\pageobjectmodeltest\\locators\\ordermodallocators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7552D9-7647-4273-91DE-0C19D7895FED}|PageObjectModelTest\\PageObjectModelTest.csproj|solutionrelative:pageobjectmodeltest\\locators\\ordermodallocators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7552D9-7647-4273-91DE-0C19D7895FED}|PageObjectModelTest\\PageObjectModelTest.csproj|c:\\users\\argument\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\selenium\\kt4\\pageobjectmodeltest\\pageobjectmodeltest\\locators\\mainlocators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7552D9-7647-4273-91DE-0C19D7895FED}|PageObjectModelTest\\PageObjectModelTest.csproj|solutionrelative:pageobjectmodeltest\\locators\\mainlocators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7552D9-7647-4273-91DE-0C19D7895FED}|PageObjectModelTest\\PageObjectModelTest.csproj|c:\\users\\argument\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\selenium\\kt4\\pageobjectmodeltest\\pageobjectmodeltest\\locators\\loginmodallocators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7552D9-7647-4273-91DE-0C19D7895FED}|PageObjectModelTest\\PageObjectModelTest.csproj|solutionrelative:pageobjectmodeltest\\locators\\loginmodallocators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7552D9-7647-4273-91DE-0C19D7895FED}|PageObjectModelTest\\PageObjectModelTest.csproj|c:\\users\\argument\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\selenium\\kt4\\pageobjectmodeltest\\pageobjectmodeltest\\locators\\cartlocators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7552D9-7647-4273-91DE-0C19D7895FED}|PageObjectModelTest\\PageObjectModelTest.csproj|solutionrelative:pageobjectmodeltest\\locators\\cartlocators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7552D9-7647-4273-91DE-0C19D7895FED}|PageObjectModelTest\\PageObjectModelTest.csproj|c:\\users\\argument\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\selenium\\kt4\\pageobjectmodeltest\\pageobjectmodeltest\\core\\webdriverhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7552D9-7647-4273-91DE-0C19D7895FED}|PageObjectModelTest\\PageObjectModelTest.csproj|solutionrelative:pageobjectmodeltest\\core\\webdriverhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7552D9-7647-4273-91DE-0C19D7895FED}|PageObjectModelTest\\PageObjectModelTest.csproj|c:\\users\\argument\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\selenium\\kt4\\pageobjectmodeltest\\pageobjectmodeltest\\core\\webdriverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7552D9-7647-4273-91DE-0C19D7895FED}|PageObjectModelTest\\PageObjectModelTest.csproj|solutionrelative:pageobjectmodeltest\\core\\webdriverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7552D9-7647-4273-91DE-0C19D7895FED}|PageObjectModelTest\\PageObjectModelTest.csproj|c:\\users\\argument\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\selenium\\kt4\\pageobjectmodeltest\\pageobjectmodeltest\\pageobjectmodeltest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BC7552D9-7647-4273-91DE-0C19D7895FED}|PageObjectModelTest\\PageObjectModelTest.csproj|solutionrelative:pageobjectmodeltest\\pageobjectmodeltest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cde3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductPage.cs",
+              "DocumentMoniker": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Selenium\\KT4\\PageObjectModelTest\\PageObjectModelTest\\UI\\Pages\\ProductPage.cs",
+              "RelativeDocumentMoniker": "PageObjectModelTest\\UI\\Pages\\ProductPage.cs",
+              "ToolTip": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Selenium\\KT4\\PageObjectModelTest\\PageObjectModelTest\\UI\\Pages\\ProductPage.cs",
+              "RelativeToolTip": "PageObjectModelTest\\UI\\Pages\\ProductPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T20:09:18.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.cs",
+              "DocumentMoniker": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Selenium\\KT4\\PageObjectModelTest\\PageObjectModelTest\\UI\\Pages\\MainPage.cs",
+              "RelativeDocumentMoniker": "PageObjectModelTest\\UI\\Pages\\MainPage.cs",
+              "ToolTip": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Selenium\\KT4\\PageObjectModelTest\\PageObjectModelTest\\UI\\Pages\\MainPage.cs",
+              "RelativeToolTip": "PageObjectModelTest\\UI\\Pages\\MainPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T20:09:09.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartPage.cs",
+              "DocumentMoniker": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Selenium\\KT4\\PageObjectModelTest\\PageObjectModelTest\\UI\\Pages\\CartPage.cs",
+              "RelativeDocumentMoniker": "PageObjectModelTest\\UI\\Pages\\CartPage.cs",
+              "ToolTip": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Selenium\\KT4\\PageObjectModelTest\\PageObjectModelTest\\UI\\Pages\\CartPage.cs",
+              "RelativeToolTip": "PageObjectModelTest\\UI\\Pages\\CartPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T20:09:01.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignUpModal.cs",
+              "DocumentMoniker": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Selenium\\KT4\\PageObjectModelTest\\PageObjectModelTest\\UI\\Models\\SignUpModal.cs",
+              "RelativeDocumentMoniker": "PageObjectModelTest\\UI\\Models\\SignUpModal.cs",
+              "ToolTip": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Selenium\\KT4\\PageObjectModelTest\\PageObjectModelTest\\UI\\Models\\SignUpModal.cs",
+              "RelativeToolTip": "PageObjectModelTest\\UI\\Models\\SignUpModal.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T20:08:40.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderModal.cs",
+              "DocumentMoniker": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Selenium\\KT4\\PageObjectModelTest\\PageObjectModelTest\\UI\\Models\\OrderModal.cs",
+              "RelativeDocumentMoniker": "PageObjectModelTest\\UI\\Models\\OrderModal.cs",
+              "ToolTip": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Selenium\\KT4\\PageObjectModelTest\\PageObjectModelTest\\UI\\Models\\OrderModal.cs",
+              "RelativeToolTip": "PageObjectModelTest\\UI\\Models\\OrderModal.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T20:08:35.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginModal.cs",
+              "DocumentMoniker": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Selenium\\KT4\\PageObjectModelTest\\PageObjectModelTest\\UI\\Models\\LoginModal.cs",
+              "RelativeDocumentMoniker": "PageObjectModelTest\\UI\\Models\\LoginModal.cs",
+              "ToolTip": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Selenium\\KT4\\PageObjectModelTest\\PageObjectModelTest\\UI\\Models\\LoginModal.cs",
+              "RelativeToolTip": "PageObjectModelTest\\UI\\Models\\LoginModal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T20:08:30.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SignUpTests.cs",
+              "DocumentMoniker": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Selenium\\KT4\\PageObjectModelTest\\PageObjectModelTest\\Tests\\SignUpTests.cs",
+              "RelativeDocumentMoniker": "PageObjectModelTest\\Tests\\SignUpTests.cs",
+              "ToolTip": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Selenium\\KT4\\PageObjectModelTest\\PageObjectModelTest\\Tests\\SignUpTests.cs",
+              "RelativeToolTip": "PageObjectModelTest\\Tests\\SignUpTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T20:07:33.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PurchaseTests.cs",
+              "DocumentMoniker": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Selenium\\KT4\\PageObjectModelTest\\PageObjectModelTest\\Tests\\PurchaseTests.cs",
+              "RelativeDocumentMoniker": "PageObjectModelTest\\Tests\\PurchaseTests.cs",
+              "ToolTip": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Selenium\\KT4\\PageObjectModelTest\\PageObjectModelTest\\Tests\\PurchaseTests.cs",
+              "RelativeToolTip": "PageObjectModelTest\\Tests\\PurchaseTests.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T20:07:27.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginTests.cs",
+              "DocumentMoniker": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Selenium\\KT4\\PageObjectModelTest\\PageObjectModelTest\\Tests\\LoginTests.cs",
+              "RelativeDocumentMoniker": "PageObjectModelTest\\Tests\\LoginTests.cs",
+              "ToolTip": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Selenium\\KT4\\PageObjectModelTest\\PageObjectModelTest\\Tests\\LoginTests.cs",
+              "RelativeToolTip": "PageObjectModelTest\\Tests\\LoginTests.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T20:07:21.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddToCartTests.cs",
+              "DocumentMoniker": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Selenium\\KT4\\PageObjectModelTest\\PageObjectModelTest\\Tests\\AddToCartTests.cs",
+              "RelativeDocumentMoniker": "PageObjectModelTest\\Tests\\AddToCartTests.cs",
+              "ToolTip": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Selenium\\KT4\\PageObjectModelTest\\PageObjectModelTest\\Tests\\AddToCartTests.cs",
+              "RelativeToolTip": "PageObjectModelTest\\Tests\\AddToCartTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T20:07:17.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SignUpModalLocators.cs",
+              "DocumentMoniker": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Selenium\\KT4\\PageObjectModelTest\\PageObjectModelTest\\Locators\\SignUpModalLocators.cs",
+              "RelativeDocumentMoniker": "PageObjectModelTest\\Locators\\SignUpModalLocators.cs",
+              "ToolTip": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Selenium\\KT4\\PageObjectModelTest\\PageObjectModelTest\\Locators\\SignUpModalLocators.cs",
+              "RelativeToolTip": "PageObjectModelTest\\Locators\\SignUpModalLocators.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T20:06:43.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductLocators.cs",
+              "DocumentMoniker": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Selenium\\KT4\\PageObjectModelTest\\PageObjectModelTest\\Locators\\ProductLocators.cs",
+              "RelativeDocumentMoniker": "PageObjectModelTest\\Locators\\ProductLocators.cs",
+              "ToolTip": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Selenium\\KT4\\PageObjectModelTest\\PageObjectModelTest\\Locators\\ProductLocators.cs",
+              "RelativeToolTip": "PageObjectModelTest\\Locators\\ProductLocators.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T20:06:38.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderModalLocators.cs",
+              "DocumentMoniker": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Selenium\\KT4\\PageObjectModelTest\\PageObjectModelTest\\Locators\\OrderModalLocators.cs",
+              "RelativeDocumentMoniker": "PageObjectModelTest\\Locators\\OrderModalLocators.cs",
+              "ToolTip": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Selenium\\KT4\\PageObjectModelTest\\PageObjectModelTest\\Locators\\OrderModalLocators.cs",
+              "RelativeToolTip": "PageObjectModelTest\\Locators\\OrderModalLocators.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T20:06:32.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainLocators.cs",
+              "DocumentMoniker": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Selenium\\KT4\\PageObjectModelTest\\PageObjectModelTest\\Locators\\MainLocators.cs",
+              "RelativeDocumentMoniker": "PageObjectModelTest\\Locators\\MainLocators.cs",
+              "ToolTip": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Selenium\\KT4\\PageObjectModelTest\\PageObjectModelTest\\Locators\\MainLocators.cs",
+              "RelativeToolTip": "PageObjectModelTest\\Locators\\MainLocators.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T20:06:25.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginModalLocators.cs",
+              "DocumentMoniker": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Selenium\\KT4\\PageObjectModelTest\\PageObjectModelTest\\Locators\\LoginModalLocators.cs",
+              "RelativeDocumentMoniker": "PageObjectModelTest\\Locators\\LoginModalLocators.cs",
+              "ToolTip": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Selenium\\KT4\\PageObjectModelTest\\PageObjectModelTest\\Locators\\LoginModalLocators.cs",
+              "RelativeToolTip": "PageObjectModelTest\\Locators\\LoginModalLocators.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T20:06:19.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CartLocators.cs",
+              "DocumentMoniker": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Selenium\\KT4\\PageObjectModelTest\\PageObjectModelTest\\Locators\\CartLocators.cs",
+              "RelativeDocumentMoniker": "PageObjectModelTest\\Locators\\CartLocators.cs",
+              "ToolTip": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Selenium\\KT4\\PageObjectModelTest\\PageObjectModelTest\\Locators\\CartLocators.cs",
+              "RelativeToolTip": "PageObjectModelTest\\Locators\\CartLocators.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T20:06:13.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WebDriverHelper.cs",
+              "DocumentMoniker": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Selenium\\KT4\\PageObjectModelTest\\PageObjectModelTest\\Core\\WebDriverHelper.cs",
+              "RelativeDocumentMoniker": "PageObjectModelTest\\Core\\WebDriverHelper.cs",
+              "ToolTip": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Selenium\\KT4\\PageObjectModelTest\\PageObjectModelTest\\Core\\WebDriverHelper.cs",
+              "RelativeToolTip": "PageObjectModelTest\\Core\\WebDriverHelper.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA8wCAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T20:05:58.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WebDriverFactory.cs",
+              "DocumentMoniker": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Selenium\\KT4\\PageObjectModelTest\\PageObjectModelTest\\Core\\WebDriverFactory.cs",
+              "RelativeDocumentMoniker": "PageObjectModelTest\\Core\\WebDriverFactory.cs",
+              "ToolTip": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Selenium\\KT4\\PageObjectModelTest\\PageObjectModelTest\\Core\\WebDriverFactory.cs",
+              "RelativeToolTip": "PageObjectModelTest\\Core\\WebDriverFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T20:05:48.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PageObjectModelTest",
+              "DocumentMoniker": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Selenium\\KT4\\PageObjectModelTest\\PageObjectModelTest\\PageObjectModelTest.csproj",
+              "RelativeDocumentMoniker": "PageObjectModelTest\\PageObjectModelTest.csproj",
+              "ToolTip": "C:\\Users\\argument\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Selenium\\KT4\\PageObjectModelTest\\PageObjectModelTest\\PageObjectModelTest.csproj",
+              "RelativeToolTip": "PageObjectModelTest\\PageObjectModelTest.csproj",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-04T20:03:24.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

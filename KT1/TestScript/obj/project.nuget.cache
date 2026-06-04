@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1+Up3gZxNZc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\argument\\OneDrive\\Рабочий стол\\Selenium\\KT1\\TestScript\\TestScript.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\argument\\.nuget\\packages\\selenium.webdriver\\4.44.0\\selenium.webdriver.4.44.0.nupkg.sha512",
+    "C:\\Users\\argument\\.nuget\\packages\\selenium.webdriver.chromedriver\\149.0.7827.2200-beta\\selenium.webdriver.chromedriver.149.0.7827.2200-beta.nupkg.sha512"
+  ],
+  "logs": []
+}
